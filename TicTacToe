@@ -2,7 +2,7 @@ local GameModule = {}
 
 function GameModule.Install(obj)
 	local frame = obj
-	if not frame then return end
+	
 
 	local grid = {}
 	local buttons = {}
